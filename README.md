@@ -4,7 +4,7 @@
 
 | Name | Role / Email |
 | --- | --- |
-| **Charles Edwill Gabut** | Student ([cgabut@csu.fullerton.edu](mailto:cgabut@csu.fullerton.edu)) |
+| **Charles Edwill Gabut** | Student ([charles_g@csu.fullerton.edu](mailto:cgabut@csu.fullerton.edu)) |
 
 ---
 
